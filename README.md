@@ -11,10 +11,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0013-roman-to-integer) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0013-roman-to-integer) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
 |  |
