@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0013-roman-to-integer) |
 | [1319-unique-number-of-occurrences](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1319-unique-number-of-occurrences) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Math
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -42,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -56,4 +59,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0392-is-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
