@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0392-is-subsequence) |
@@ -83,4 +84,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1046-max-consecutive-ones-iii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
