@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0015-3sum) |
 | [0238-product-of-array-except-self](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0238-product-of-array-except-self) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0004-median-of-two-sorted-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1046-max-consecutive-ones-iii) |
 ## Trie
 |  |
@@ -111,4 +113,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/2470-removing-stars-from-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
