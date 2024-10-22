@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0283-move-zeroes) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0283-move-zeroes) |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0016-3sum-closest) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
