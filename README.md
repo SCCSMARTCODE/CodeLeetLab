@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0035-search-insert-position) |
 | [0238-product-of-array-except-self](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0334-increasing-triplet-subsequence) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0035-search-insert-position) |
 | [1046-max-consecutive-ones-iii](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1046-max-consecutive-ones-iii) |
 ## Trie
 |  |
