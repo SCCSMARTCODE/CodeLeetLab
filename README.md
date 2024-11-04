@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0035-search-insert-position) |
 | [0238-product-of-array-except-self](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0238-product-of-array-except-self) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0035-search-insert-position) |
 | [1046-max-consecutive-ones-iii](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1046-max-consecutive-ones-iii) |
