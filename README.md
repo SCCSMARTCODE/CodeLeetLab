@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0013-roman-to-integer) |
 | [1319-unique-number-of-occurrences](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/2428-equal-row-and-column-pairs) |
 ## Math
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/2470-removing-stars-from-a-string) |
 ## Two Pointers
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0016-3sum-closest) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
@@ -130,4 +133,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0004-median-of-two-sorted-arrays) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
