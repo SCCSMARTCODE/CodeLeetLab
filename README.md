@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0013-roman-to-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1236-n-th-tribonacci-number) |
 ## String
 |  |
 | ------- |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0392-is-subsequence) |
+| [1236-n-th-tribonacci-number](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
 |  |
@@ -191,4 +193,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/0904-leaf-similar-trees) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/SCCSMARTCODE/CodeLeetLab/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
